@@ -1,0 +1,16 @@
+D:\Courseware\ElasticSearch\ElasticSearchCore\bin\Debug\netcoreapp3.1\ElasticSearchCore.exe
+D:\Courseware\ElasticSearch\ElasticSearchCore\obj\Debug\netcoreapp3.1\ElasticSearchCore.AssemblyInfoInputs.cache
+D:\Courseware\ElasticSearch\ElasticSearchCore\obj\Debug\netcoreapp3.1\ElasticSearchCore.AssemblyInfo.cs
+D:\Courseware\ElasticSearch\ElasticSearchCore\bin\Debug\netcoreapp3.1\ElasticSearchCore.deps.json
+D:\Courseware\ElasticSearch\ElasticSearchCore\bin\Debug\netcoreapp3.1\ElasticSearchCore.runtimeconfig.json
+D:\Courseware\ElasticSearch\ElasticSearchCore\bin\Debug\netcoreapp3.1\ElasticSearchCore.runtimeconfig.dev.json
+D:\Courseware\ElasticSearch\ElasticSearchCore\bin\Debug\netcoreapp3.1\ElasticSearchCore.dll
+D:\Courseware\ElasticSearch\ElasticSearchCore\bin\Debug\netcoreapp3.1\ElasticSearchCore.pdb
+D:\Courseware\ElasticSearch\ElasticSearchCore\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+D:\Courseware\ElasticSearch\ElasticSearchCore\bin\Debug\netcoreapp3.1\Nest.dll
+D:\Courseware\ElasticSearch\ElasticSearchCore\obj\Debug\netcoreapp3.1\ElasticSearchCore.csproj.CopyComplete
+D:\Courseware\ElasticSearch\ElasticSearchCore\obj\Debug\netcoreapp3.1\ElasticSearchCore.dll
+D:\Courseware\ElasticSearch\ElasticSearchCore\obj\Debug\netcoreapp3.1\ElasticSearchCore.pdb
+D:\Courseware\ElasticSearch\ElasticSearchCore\obj\Debug\netcoreapp3.1\ElasticSearchCore.genruntimeconfig.cache
+D:\Courseware\ElasticSearch\ElasticSearchCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Courseware\ElasticSearch\ElasticSearchCore\obj\Debug\netcoreapp3.1\ElasticSearchCore.csproj.CoreCompileInputs.cache

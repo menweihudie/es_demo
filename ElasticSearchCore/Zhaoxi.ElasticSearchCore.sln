@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.ELK.Logstash_TCP", "..\Zhaoxi.ELK.Logstach_TCP\Zhaoxi.ELK.Logstash_TCP.csproj", "{548D0014-047C-4153-B885-D0F4B7E61C06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.ELK.Logstash_File", "..\Zhaoxi.ELK.Logstach_File\Zhaoxi.ELK.Logstash_File.csproj", "{4F8A6FFD-CCA3-482B-94B0-F5767DF03139}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.ELK.LogstashKafka", "..\Zhaoxi.ELK.LogstashKafka\Zhaoxi.ELK.LogstashKafka.csproj", "{2228ECDE-B96C-4342-B194-5728B995CBC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.ELK.LogstashRedis", "..\Zhaoxi.ELK.LogstashRedis\Zhaoxi.ELK.LogstashRedis.csproj", "{935B91CF-38A9-4ACD-A5FD-2D29F5BAB0C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SpringCloud", "SpringCloud", "{C19812D9-6E3F-4144-91A5-F872EDC42924}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.MicroService.ClientDemo", "..\Zhaoxi.MicroService.ClientDemo\Zhaoxi.MicroService.ClientDemo.csproj", "{C9855C5F-41D5-4B8E-B079-BC096B9169CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.MicroService.Model", "..\Zhaoxi.MicroService.Model\Zhaoxi.MicroService.Model.csproj", "{0B8198CD-EDD4-400D-B168-833BBE275EA8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.MicroService.UserService", "..\Zhaoxi.MicroService.Service\Zhaoxi.MicroService.UserService.csproj", "{49C0453A-7138-4C23-92B7-4675EE436DCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.MicroService.LessonService", "..\Zhaoxi.MicroService.LessonService\Zhaoxi.MicroService.LessonService.csproj", "{876562DF-BB12-4A12-B68B-441564E532FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.MicroService.RecordService", "..\Zhaoxi.MicroService.RecordService\Zhaoxi.MicroService.RecordService.csproj", "{0DA825C7-588E-441C-8AD9-EA6B95437A52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.ElasticSearchCore", "Zhaoxi.ElasticSearchCore.csproj", "{5E709765-1582-497E-B0A0-185F87ABCD48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{548D0014-047C-4153-B885-D0F4B7E61C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548D0014-047C-4153-B885-D0F4B7E61C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548D0014-047C-4153-B885-D0F4B7E61C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548D0014-047C-4153-B885-D0F4B7E61C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8A6FFD-CCA3-482B-94B0-F5767DF03139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8A6FFD-CCA3-482B-94B0-F5767DF03139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8A6FFD-CCA3-482B-94B0-F5767DF03139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8A6FFD-CCA3-482B-94B0-F5767DF03139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2228ECDE-B96C-4342-B194-5728B995CBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2228ECDE-B96C-4342-B194-5728B995CBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2228ECDE-B96C-4342-B194-5728B995CBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2228ECDE-B96C-4342-B194-5728B995CBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935B91CF-38A9-4ACD-A5FD-2D29F5BAB0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935B91CF-38A9-4ACD-A5FD-2D29F5BAB0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935B91CF-38A9-4ACD-A5FD-2D29F5BAB0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935B91CF-38A9-4ACD-A5FD-2D29F5BAB0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9855C5F-41D5-4B8E-B079-BC096B9169CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9855C5F-41D5-4B8E-B079-BC096B9169CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9855C5F-41D5-4B8E-B079-BC096B9169CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9855C5F-41D5-4B8E-B079-BC096B9169CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8198CD-EDD4-400D-B168-833BBE275EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8198CD-EDD4-400D-B168-833BBE275EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8198CD-EDD4-400D-B168-833BBE275EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8198CD-EDD4-400D-B168-833BBE275EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C0453A-7138-4C23-92B7-4675EE436DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C0453A-7138-4C23-92B7-4675EE436DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C0453A-7138-4C23-92B7-4675EE436DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C0453A-7138-4C23-92B7-4675EE436DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{876562DF-BB12-4A12-B68B-441564E532FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876562DF-BB12-4A12-B68B-441564E532FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876562DF-BB12-4A12-B68B-441564E532FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876562DF-BB12-4A12-B68B-441564E532FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA825C7-588E-441C-8AD9-EA6B95437A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA825C7-588E-441C-8AD9-EA6B95437A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA825C7-588E-441C-8AD9-EA6B95437A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA825C7-588E-441C-8AD9-EA6B95437A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E709765-1582-497E-B0A0-185F87ABCD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E709765-1582-497E-B0A0-185F87ABCD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E709765-1582-497E-B0A0-185F87ABCD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E709765-1582-497E-B0A0-185F87ABCD48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C9855C5F-41D5-4B8E-B079-BC096B9169CE} = {C19812D9-6E3F-4144-91A5-F872EDC42924}
+		{0B8198CD-EDD4-400D-B168-833BBE275EA8} = {C19812D9-6E3F-4144-91A5-F872EDC42924}
+		{49C0453A-7138-4C23-92B7-4675EE436DCE} = {C19812D9-6E3F-4144-91A5-F872EDC42924}
+		{876562DF-BB12-4A12-B68B-441564E532FB} = {C19812D9-6E3F-4144-91A5-F872EDC42924}
+		{0DA825C7-588E-441C-8AD9-EA6B95437A52} = {C19812D9-6E3F-4144-91A5-F872EDC42924}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F95DD54-EFF4-48E7-B4B0-2CCF3E68C26D}
+	EndGlobalSection
+EndGlobal

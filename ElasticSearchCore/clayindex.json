@@ -1,0 +1,53 @@
+#׼������  
+DELETE /clayindex
+PUT /clayindex
+{
+   "mappings": {
+     "properties": {
+     "name":{
+       "type": "keyword"
+     },
+     "address":{
+        "type": "text"
+     },
+     "age":{
+        "type": "integer"
+     }
+     }
+   }
+}
+#�������� �����Լ�����id //  
+POST  /clayindex/_doc
+{
+   "name":"�ܲ�",
+   "address":"κ��",
+   "age":18
+  
+}
+POST  /clayindex/_doc
+{
+   "name":"��ڼ",
+   "address":"κ��",
+   "age":19
+  
+}
+POST  /clayindex/_doc
+{
+   "name":"�����",
+   "address":"���",
+   "age":37
+  
+}
+POST  /clayindex/_doc
+{
+   "name":"����",
+   "address":"���",
+   "age":35
+  
+}
+POST  /clayindex/_doc
+{
+   "name":"���",
+   "address":["���","���"],
+   "age":25
+}

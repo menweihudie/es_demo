@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e709765-1582-497e-b0a0-185f87abcd48": {
+      "ProjectGuid": "5e709765-1582-497e-b0a0-185f87abcd48",
+      "DisplayName": "Zhaoxi.ElasticSearchCore",
+      "ColorIndex": 0
+    },
+    "4f8a6ffd-cca3-482b-94b0-f5767df03139": {
+      "ProjectGuid": "4f8a6ffd-cca3-482b-94b0-f5767df03139",
+      "DisplayName": "Zhaoxi.ELK.Logstash_File",
+      "ColorIndex": 1
+    },
+    "49c0453a-7138-4c23-92b7-4675ee436dce": {
+      "ProjectGuid": "49c0453a-7138-4c23-92b7-4675ee436dce",
+      "DisplayName": "Zhaoxi.MicroService.UserService",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
